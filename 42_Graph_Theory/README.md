@@ -1,5 +1,4 @@
 
-- Repo added: [3~[2~1.	https://github.com/learn-co-students/dsc-network-introduction-online-ds-pt-081219.git[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
 - Repo added: https://github.com/learn-co-students/dsc-network-introduction-online-ds-pt-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-network-introduction-online-ds-pt-081219.git
 - Repo added: https://github.com/learn-co-students/dsc-intro-graph-theory-online-ds-pt-081219.git
