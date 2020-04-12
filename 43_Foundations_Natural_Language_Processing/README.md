@@ -1,0 +1,13 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-nlp-section-intro-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-nlp-and-word-vectorization-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/ds-word-vectorization-lab-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-introduction-to-nltk-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-introduction-to-regular-expressions-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-regular-expressions-codealong-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-feature-engineering-for-text-data-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-context-free-grammars-and-POS-tagging-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-context-free-grammars-codealong-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-text-classification-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-text-classification-lab-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-nlp-section-recap-online-ds-pt-081219.git
