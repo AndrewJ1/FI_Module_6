@@ -1,0 +1,11 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-deep-nlp-intro-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-word-embeddings-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-using-word2vec-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-generating-word-embeddings-lab-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-classification-with-word-embeddings-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-classification-with-word-embeddings-codealong-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-sequence-model-use-cases-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-understanding-recurrent-neural-networks-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-lstms-and-grus-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-deep-nlp-recap-online-ds-pt-081219.git
