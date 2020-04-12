@@ -1,0 +1,17 @@
+
+- Repo added: [3~[2~1.	https://github.com/learn-co-students/dsc-network-introduction-online-ds-pt-081219.git[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+- Repo added: https://github.com/learn-co-students/dsc-network-introduction-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-network-introduction-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-intro-graph-theory-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-networkX-intro-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-networkX-intro-lab-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-graph-theory-shortest-path-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-graph-theory-shortest-path-lab-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-node-centrality-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-node-centrality-lab-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-network-clustering-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-network-clustering-lab-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-network-community-detection-lab-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-network-recommendation-systems-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-network-recomendation-systems-lab-online-ds-pt-081219.git
+- Repo added: https://github.com/learn-co-students/dsc-networks-recap-online-ds-pt-081219.git
